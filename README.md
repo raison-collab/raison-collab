@@ -13,4 +13,4 @@
 ![Linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux)
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raison-collab&locale=ru&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raison-collab&locale=ru&show_icons=true&theme=dark)
